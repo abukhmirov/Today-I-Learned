@@ -8,7 +8,7 @@ Decoupling is separation of whatever code you are working on from its dependenci
 
 **Example**
 
-Imagine you are developing a web application that accesses a database. You could tightly couple your data access, howerver, Dependency Injection provides you with all the benefits listed above.
+Imagine you are developing a web application that accesses a database. You could tightly couple your data access, however, Dependency Injection provides you with all the benefits listed above.
 
 
 ```
