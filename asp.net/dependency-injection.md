@@ -31,5 +31,5 @@ For instance, you could swap out a SQL database context for an in-memory databas
 
 **Additional Resources**
 
-[DOT NET tutorials](https://dotnettutorials.net/lesson/dependency-injection-design-pattern-csharp/)
+[DOT NET tutorials](https://dotnettutorials.net/lesson/dependency-injection-design-pattern-csharp/) ||
 [C# Corner](https://www.c-sharpcorner.com/UploadFile/85ed7a/dependency-injection-in-C-Sharp/)
