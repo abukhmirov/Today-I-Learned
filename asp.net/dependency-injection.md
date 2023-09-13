@@ -3,7 +3,7 @@
 **Explanation**
 
 Dependency Injection is an important concept and tool in ASP.NET Core applications. It allows for better code maintainability, decoupling for easier testing, and Inversion of Control.
-Inversion of Control in Dependency Injection is allowing for class dependencies to be introduced outside of the class contructor instead of the class creating its own dependencies.
+Inversion of Control in Dependency Injection is allowing for class dependencies to be introduced outside of the class constructor instead of the class creating its own dependencies.
 Decoupling is separation of whatever code you are working on from its dependencies, which lets a developer focus on the specific code that is being tested without worrying about other code failing.
 
 **Example**
